@@ -17,7 +17,7 @@ Sobre mim: toco guitarra, amo música e curto tênis de mesa.
 Entre em contato comigo: 
 Email: gabrielcesarrogerio@outlook.com
 Linkedin: https://www.linkedin.com/in/gabriel-c%C3%A9sar-rog%C3%A9rio/
-Instagram: https://www.instagram.com/gabbsscr/
+Instagram: https://www.instagram.com/gabrielcrogerio/
 
 
 <!--
