@@ -6,7 +6,7 @@ Bem-vindo a minha prateleira onde guardo meus trabalhos, chamada GItHub.
 
 Sou um estudante, apaixonado por Front-end.
 
-Posso te ajudar com Javascript (ES6+), pois atualmente tenho me aprofundado muito em dominar a linguagem.
+Posso te ajudar com Javascript (ES6+), pois atualmente tenho me aprofundado em dominar a linguagem.
 
 Meu sonho é ser um Front-end Dev Mobile, pois me chama a atenção as impressões que um bom visual causa em quem vê e usa, principalmente no celular que todos usam durante o dia a dia.
 
