@@ -13,8 +13,11 @@ I have experience focusing on code quality, best practices, and collaborating wi
 EU citizenship (Italian) in progress.
 
 Contact me anytime:
+
 Email: gabriel.cesar.rogerio@outlook.com
-Linkedin: https://www.linkedin.com/in/gabriel-c%C3%A9sar-rog%C3%A9rio/
+
+Linkedin: https://www.linkedin.com/in/gabriel-césar-rogério/
+
 Instagram: https://www.instagram.com/gabrielcrogerio/
 
 
