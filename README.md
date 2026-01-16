@@ -2,19 +2,17 @@
 
 ### Hello World 👋
 
-Bem-vindo a minha prateleira onde guardo meus trabalhos, chamada GItHub.
+Welcome to the shelf, you can find my stuff here.
 
-Sou um estudante, apaixonado por Front-end.
+I'm a developer, passionate about front-end.
 
-Posso te ajudar com Javascript (ES6+), pois atualmente tenho me aprofundado em dominar a linguagem.
+I can help you with Javascript (ES6+), Angular (2, v12+), RxJS, Node, Nest and AWS.
 
-Meu sonho é ser um Front-end Dev Mobile, pois me chama a atenção as impressões que um bom visual causa em quem vê e usa, principalmente no celular que todos usam durante o dia a dia.
+I have experience focusing on code quality, best practices, and collaborating with cross-functional teams. Currently seeking remote opportunities with EU or UK-based companies or sponsorship.
 
-Meu framework favorito e que tenho estudado é React Native.
+EU citizenship (Italian) in progress.
 
-Sobre mim: toco guitarra, amo música e curto tênis de mesa.
-
-Entre em contato comigo: 
+Contact me anytime:
 Email: gabriel.cesar.rogerio@outlook.com
 Linkedin: https://www.linkedin.com/in/gabriel-c%C3%A9sar-rog%C3%A9rio/
 Instagram: https://www.instagram.com/gabrielcrogerio/
